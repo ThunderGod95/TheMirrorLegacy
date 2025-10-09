@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "glossary.json"
+            ],
+            "url": "./assets/glossary-schema.json"
+        }
+    ]
+}

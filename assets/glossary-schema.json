@@ -1,0 +1,98 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Entity Schema",
+    "description": "Schema for persons, items, places, concepts, and other entities with multilingual information.",
+    "type": "array",
+    "items": {
+        "type": "object",
+        "required": [
+            "en",
+            "cn",
+            "pinyin",
+            "type",
+            "gender",
+            "file"
+        ],
+        "properties": {
+            "en": {
+                "type": "string",
+                "description": "English transliteration, name, or translation"
+            },
+            "cn": {
+                "type": "string",
+                "description": "Chinese characters of the entity"
+            },
+            "pinyin": {
+                "type": "string",
+                "description": "Pinyin transliteration with tonal marks"
+            },
+            "type": {
+                "type": "string",
+                "enum": [
+                    "Person",
+                    "Item",
+                    "Artifact",
+                    "Place",
+                    "Concept/Term",
+                    "Technique/Art/Method/Incantation/Spell",
+                    "Unknown",
+                    "Group",
+                    "Creature",
+                    ""
+                ],
+                "description": "Classification of the entity"
+            },
+            "gender": {
+                "description": "Gender of the entity if type is Person, otherwise must be null.",
+                "oneOf": [
+                    {
+                        "type": "string",
+                        "enum": [
+                            "Male",
+                            "Female",
+                            "Unknown"
+                        ]
+                    },
+                    {
+                        "type": "null"
+                    }
+                ]
+            },
+            "file": {
+                "type": "number",
+                "description": "File in which the entity first appears."
+            }
+        },
+        "additionalProperties": false,
+        "allOf": [
+            {
+                "if": {
+                    "properties": {
+                        "type": {
+                            "const": "Person"
+                        }
+                    }
+                },
+                "then": {
+                    "properties": {
+                        "gender": {
+                            "type": "string",
+                            "enum": [
+                                "Male",
+                                "Female",
+                                "Unknown"
+                            ]
+                        }
+                    }
+                },
+                "else": {
+                    "properties": {
+                        "gender": {
+                            "type": "null"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,20 @@
+Please provide both the Chinese translations and the corresponding pinyin for these terms you have just translated, adhering to this format:
+
+```JSON
+{
+    "en": "English",
+    "cn": "Chinese",
+    "pinyin": "Pinyin with tonal marks",
+    "type": "Person|Item|Artifact|Place|Concept/Term|Technique/Art/Method/Incantation/Spell|Unknown|Group|Creature",
+    "gender": "If a person, Male/Female/Unknown or null if not a person" or null,
+    "file: chapter number (int)
+},
+```
+
+Also, ignore the previous command of no tonal marks in pinyin.
+
+Please present your output in a code block.
+
+```
+* 
+```
