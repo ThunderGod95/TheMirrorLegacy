@@ -2696,7 +2696,7 @@
         "file": 792
     },
     {
-        "en": "Golden Book of Houshu",
+        "en": "Golden Book of Divine Attendance",
         "cn": "候殊金书",
         "pinyin": "Hòushū Jīnshū",
         "type": "Unknown",
@@ -3408,7 +3408,7 @@
         "file": 1003
     },
     {
-        "en": "Houshenshu",
+        "en": "Awaiting the Supreme Divine",
         "cn": "候神殊",
         "pinyin": "Hòu Shén Shū",
         "type": "Unknown",
@@ -4091,8 +4091,8 @@
         "en": "Li Jiangqian",
         "cn": "李绛迁",
         "pinyin": "Lǐ Jiàngqiān",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 1011
     },
     {
@@ -7427,16 +7427,16 @@
         "en": "Taiyuan",
         "cn": "太元",
         "pinyin": "Tàiyuán",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 1025
     },
     {
         "en": "Taiyue",
         "cn": "太越",
         "pinyin": "Taiyue",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Male",
         "file": 1028
     },
     {
@@ -8384,15 +8384,7 @@
         "file": 708
     },
     {
-        "en": "Water Mansion",
-        "cn": "弱水",
-        "pinyin": "Ruòshuǐ",
-        "type": "Unknown",
-        "gender": null,
-        "file": 1047
-    },
-    {
-        "en": "Water Mansion",
+        "en": "Mansion Water",
         "cn": "府水",
         "pinyin": "fǔ shuǐ",
         "type": "Unknown",
@@ -9640,7 +9632,7 @@
         "file": 1063
     },
     {
-        "en": "Zhu South Water Mansion",
+        "en": "Zhu South Mansion Water",
         "cn": "朱南水府",
         "pinyin": "Zhūnán Shuǐfǔ",
         "type": "Unknown",
@@ -10704,7 +10696,7 @@
         "file": 131
     },
     {
-        "en": "Spiritual Qi",
+        "en": "spiritual qi",
         "cn": "灵气",
         "pinyin": "língqì",
         "type": "Unknown",
@@ -13984,7 +13976,7 @@
         "file": 925
     },
     {
-        "en": "Deep winter conceals weakness; flourishing lakes gather form. This is the nature of Water Mansion. With Cold Qi and Valley Water both present, how can the Water Mansion path not be proven? My only regret is that the Yu seized the Yuan, the Profound Giant Turtle lost its vastness, and from that day, our natures could never merge!",
+        "en": "Deep winter conceals weakness; flourishing lakes gather form. This is the nature of Mansion Water. With Cold Qi and Valley Water both present, how can the Mansion Water path not be proven? My only regret is that the Yu seized the Yuan, the Profound Giant Turtle lost its vastness, and from that day, our natures could never merge!",
         "cn": "穷冬伏弱，兴泽蓄容，府水之象也，寒炁牝水既具，府水焉不证？只恨蜮夺渊，玄鼋失浩瀚，从此性难合！",
         "pinyin": "Qióng dōng fú ruò, xìng zé xù róng, fǔ shuǐ zhī xiàng yě, hánqì pìnshuǐ jì jù, fǔ shuǐ yān bù zhèng? Zhǐ hèn yù duó yuān, xuányuán shī hàohàn, cóngcǐ xìng nán hé!",
         "type": "Unknown",
@@ -16643,8 +16635,8 @@
         "en": "Beiyao",
         "cn": "北曜",
         "pinyin": "Běi Yào",
-        "type": "Concept/Term",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 402
     },
     {
@@ -18480,7 +18472,7 @@
         "file": 1007
     },
     {
-        "en": "Li Chi",
+        "en": "Searing Radiance",
         "cn": "离炽",
         "pinyin": "Lí Chì",
         "type": "Group",
@@ -20552,7 +20544,7 @@
         "file": 1035
     },
     {
-        "en": "uses the harmony of cold and heat to drive water and fire, sense good and ill, perceive azure spirits, connect above to the yin of Purple Qi to absorb great purity, and draw up the harmony of Cold Qi from below to nurture the Water Mansion",
+        "en": "uses the harmony of cold and heat to drive water and fire, sense good and ill, perceive azure spirits, connect above to the yin of Purple Qi to absorb great purity, and draw up the harmony of Cold Qi from below to nurture the Mansion Water",
         "cn": "以寒躁之和，驱策水火，感应良莠，阅揽青灵，上接紫炁之阴，吸食太清，下提寒炁之和，孕养弱水",
         "pinyin": "yǐ hán zào zhī hé, qūcè shuǐhuǒ, gǎnyìng liángyǒu, yuèlǎn qīnglíng, shàng jiē zǐ qì zhī yīn, xīshí tàiqīng, xià tí hán qì zhī hé, yùnyǎng ruòshuǐ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -22416,7 +22408,7 @@
         "file": 1083
     },
     {
-        "en": "Treading the Water Mansion",
+        "en": "Treading the Mansion Water",
         "cn": "采行弱水",
         "pinyin": "Cǎixíng Ruòshuǐ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -24312,7 +24304,7 @@
         "file": 1122
     },
     {
-        "en": "Gathering Wood establishing a Water Mansion",
+        "en": "Gathering Wood establishing a Mansion Water",
         "cn": "集木立府水",
         "pinyin": "Jí Mù Lì Fǔ Shuǐ",
         "type": "Concept/Term",
@@ -24752,7 +24744,7 @@
         "file": 1132
     },
     {
-        "en": "Water Mansion Pill Formation Technique",
+        "en": "Mansion Water Pill Formation Technique",
         "cn": "府水成丹之术",
         "pinyin": "Fǔ Shuǐ Chéng Dān Zhī Shù",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -26342,5 +26334,1917 @@
         "type": "Item",
         "gender": null,
         "file": 1170
+    },
+    {
+        "en": "Path-Crossing Warrant",
+        "cn": "渡阡令",
+        "pinyin": "Dùqiān Lìng",
+        "type": "Item",
+        "gender": null,
+        "file": 1170
+    },
+    {
+        "en": "Heavenly Yin Primordial Pearl",
+        "cn": "天殷元珠",
+        "pinyin": "Tiān Yīn Yuán Zhū",
+        "type": "Item",
+        "gender": null,
+        "file": 1172
+    },
+    {
+        "en": "Miao Dushan",
+        "cn": "苗杜山",
+        "pinyin": "Miáo Dùshān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1172
+    },
+    {
+        "en": "Shedding the Malice Embryo",
+        "cn": "脱煞胎",
+        "pinyin": "Tuō Shà Tāi",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1172
+    },
+    {
+        "en": "Six Elucidations",
+        "cn": "六阐",
+        "pinyin": "Liù Chǎn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1172
+    },
+    {
+        "en": "Xiude Gate",
+        "cn": "修德门",
+        "pinyin": "Xiūdé Mén",
+        "type": "Place",
+        "gender": null,
+        "file": 1173
+    },
+    {
+        "en": "Xuanwu Gate",
+        "cn": "宣武门",
+        "pinyin": "Xuānwǔ Mén",
+        "type": "Place",
+        "gender": null,
+        "file": 1173
+    },
+    {
+        "en": "Marquis Anyang",
+        "cn": "安阳侯",
+        "pinyin": "Ānyáng Hóu",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1173
+    },
+    {
+        "en": "Marquis of Anyang",
+        "cn": "安阳侯",
+        "pinyin": "Ānyáng Hóu",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1173
+    },
+    {
+        "en": "Marquis Who Rejects Evil",
+        "cn": "弃邪侯",
+        "pinyin": "Qìxié Hóu",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1173
+    },
+    {
+        "en": "Fu Chi",
+        "cn": "扶池",
+        "pinyin": "Fú Chí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1174
+    },
+    {
+        "en": "Xuantang Pond Water",
+        "cn": "玄塘池水",
+        "pinyin": "Xuán Táng Chí Shuǐ",
+        "type": "Item",
+        "gender": null,
+        "file": 1174
+    },
+    {
+        "en": "Purple Emblem Palace",
+        "cn": "紫徽宫",
+        "pinyin": "Zǐhuī Gōng",
+        "type": "Group",
+        "gender": null,
+        "file": 1175
+    },
+    {
+        "en": "Dragon Tiger Platform",
+        "cn": "龙虎台",
+        "pinyin": "Lónghǔ Tái",
+        "type": "Place",
+        "gender": null,
+        "file": 1175
+    },
+    {
+        "en": "Mountain-Levelling Li Fire",
+        "cn": "峤平离火",
+        "pinyin": "Jiào Píng Lí Huǒ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1175
+    },
+    {
+        "en": "Seeking Profundity Bestowed Jade Method",
+        "cn": "索玄赐璘黜法",
+        "pinyin": "suǒ xuán cì lín chù fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Eight Seekings",
+        "cn": "八索",
+        "pinyin": "bā suǒ",
+        "type": "Group",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Elucidating Transformation",
+        "cn": "阐化",
+        "pinyin": "chǎn huà",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Elucidating Profundity",
+        "cn": "阐玄",
+        "pinyin": "chǎn xuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Elucidating Removal",
+        "cn": "阐除",
+        "pinyin": "chǎn chú",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Art of Demoting Yin",
+        "cn": "黜阴法",
+        "pinyin": "chù yīn fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Golden Sun Brilliant Primal",
+        "cn": "金阳煌元",
+        "pinyin": "jīn yáng huáng yuán",
+        "type": "Item",
+        "gender": null,
+        "file": 1176
+    },
+    {
+        "en": "Moonlight Embracing Profundity Compendium",
+        "cn": "月下揽玄秘藏",
+        "pinyin": "Yuè xià Lǎn Xuán Mìzàng",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Profound Minister Moon Essence",
+        "cn": "玄卿月粹",
+        "pinyin": "Xuán Qīng Yuè Cuì",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Moon Bright Broad Acceptance Secret Art",
+        "cn": "月明广纳秘法",
+        "pinyin": "Yuè Míng Guǎng Nà Mìfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Northern Zenith Moon Fluid",
+        "cn": "极北月液",
+        "pinyin": "Jíbĕi Yuè Yè",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "'Auxiliary Yang' Marquis",
+        "cn": "辅阳",
+        "pinyin": "Fǔyáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Clear Li Malevolence Cloud",
+        "cn": "离澄煞云",
+        "pinyin": "Lí Chéng Shà Yún",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Mystic Tablet Edict Pill",
+        "cn": "玄珩敕丹",
+        "pinyin": "Xuán Héng Chì Dān",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Dongzhen Terrace",
+        "cn": "洞真台",
+        "pinyin": "Dòng Zhēn Tái",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Five Edicts of Hidden Profundity",
+        "cn": "服玄五敕",
+        "pinyin": "Fú Xuán Wǔ Chì",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1177
+    },
+    {
+        "en": "Blessing of Divinity",
+        "cn": "祝神",
+        "pinyin": "Zhùshén",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1178
+    },
+    {
+        "en": "East Life-Mandate Vase",
+        "cn": "东命瓶",
+        "pinyin": "Dōng Mìng Píng",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1179
+    },
+    {
+        "en": "Treasurefall Water",
+        "cn": "宝降水",
+        "pinyin": "Bǎo Jiàng Shuǐ",
+        "type": "Item",
+        "gender": null,
+        "file": 1179
+    },
+    {
+        "en": "Heart-Cleansing Spring Essence",
+        "cn": "浣心泉液",
+        "pinyin": "Huàn Xīn Quán Yè",
+        "type": "Item",
+        "gender": null,
+        "file": 1179
+    },
+    {
+        "en": "Life-Manifesting Green Leaf",
+        "cn": "显生青叶",
+        "pinyin": "Xiǎn Shēng Qīng Yè",
+        "type": "Item",
+        "gender": null,
+        "file": 1179
+    },
+    {
+        "en": "Cold Snow Lonely Peak Classic",
+        "cn": "寒雪孤峰经",
+        "pinyin": "Hánxuě Gūfēng Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1179
+    },
+    {
+        "en": "Profound Bestowal Glazed Talisman",
+        "cn": "授玄琉符",
+        "pinyin": "Shòu Xuán Liú Fú",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1179
+    },
+    {
+        "en": "Divine Corpse",
+        "cn": "神尸",
+        "pinyin": "shén shī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1180
+    },
+    {
+        "en": "Aegis of Life",
+        "cn": "避死延生",
+        "pinyin": "bì sǐ yán shēng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1180
+    },
+    {
+        "en": "Art of Demoting Yin",
+        "cn": "黜阴",
+        "pinyin": "Chùyīn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Alas, the seekers of Gold in the mortal world, A thousand wonders, myriad paths, all in discord. Only in reversal is harmony restored. Mercury from the sun's pure essence must be drawn, Lead from the moon's bright radiance at dawn. Kan and Li, Kan and Li! Water and fire, not in strife, know no breach. Within the coffin of bone lies the true life-mandate's reach, Divinity is held within a plain heart, this I teach. My dear, a hair's breadth of deviation, and the Monarch's throne you'll never reach!",
+        "cn": "大嗟人间求金客，千殊万妙总不同，颠倒方相宜。汞须日中精，铅采月里明，坎离、坎离！不争水火不相侵。尸骨柩里真性命，神韫在素心，卿卿，差之毫厘不成君！",
+        "pinyin": "Dà jiē rénjiān qiú jīn kè, qiān shū wàn miào zǒng bùtóng, diāndǎo fāng xiāngyí. Gǒng xū rì zhōng jīng, qiān cǎi yuè lǐ míng, kǎnlí, kǎnlí! Bùzhēng shuǐhuǒ bù xiāng qīn. Shī gǔ jiù lǐ zhēn xìngmìng, shén yùn zài sùxīn, qīng qīng, chà zhī háolí bùchéng jūn!",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Suyun",
+        "cn": "素韫",
+        "pinyin": "Sù Yùn",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1181
+    },
+    {
+        "en": "Chapter on Fusing Mercury, Returning to Lead, and Restoring the Life-Mandate",
+        "cn": "融汞归铅复命篇",
+        "pinyin": "Róng Gǒng Guī Qiān Fù Mìng Piān",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Art of Water and Fire's Mutual Engagement",
+        "cn": "水火相聘功",
+        "pinyin": "Shuǐhuǒ Xiāngpìn Gōng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Art of Profound Mercury Seeking Lead",
+        "cn": "玄汞求铅功",
+        "pinyin": "Xuán Gǒng Qiú Qiān Gōng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Wondrous Art of Azure-Gold Trust",
+        "cn": "妙孚青金功",
+        "pinyin": "Miào Fú Qīngjīn Gōng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Dao of Mercury Transformation",
+        "cn": "化汞保性之道",
+        "pinyin": "huà gǒng bǎo xìng zhī dào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1181
+    },
+    {
+        "en": "Supreme Lower Rite Nature",
+        "cn": "至下仪性",
+        "pinyin": "Zhì xià yí xìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1182
+    },
+    {
+        "en": "River of Wrongful Life Water",
+        "cn": "枉生河水",
+        "pinyin": "Wǎng shēng hé shuǐ",
+        "type": "Item",
+        "gender": null,
+        "file": 1182
+    },
+    {
+        "en": "Profound-Name Dao-Malice",
+        "cn": "玄名道煞",
+        "pinyin": "Xuán Míng Dào Shà",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "Malice-Mound Copper",
+        "cn": "煞陵铜",
+        "pinyin": "Shà Líng Tóng",
+        "type": "Item",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "Simulated-Focus Mercury",
+        "cn": "拟专汞水",
+        "pinyin": "nǐ zhuān gǒng shuǐ",
+        "type": "Item",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "spiritual resource",
+        "cn": "灵资",
+        "pinyin": "língzī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "spiritual essence",
+        "cn": "灵萃",
+        "pinyin": "língcuì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "nature-spirit",
+        "cn": "性灵",
+        "pinyin": "xìnglíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "Art of Assisting the Spirit and Guarding Orthodoxy",
+        "cn": "弼灵守正敕法",
+        "pinyin": "Bì Líng Shǒu Zhèng Chì Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1183
+    },
+    {
+        "en": "Blessing of Proclamation",
+        "cn": "宣仪",
+        "pinyin": "Xuānyí",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1184
+    },
+    {
+        "en": "Left-Hand Path Immortal",
+        "cn": "左道仙",
+        "pinyin": "Zuǒdào Xiān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1184
+    },
+    {
+        "en": "Left-Hand Path",
+        "cn": "左道",
+        "pinyin": "Zuǒdào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1184
+    },
+    {
+        "en": "Xue Linqing",
+        "cn": "薛霖卿",
+        "pinyin": "Xuē Línqīng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1184
+    },
+    {
+        "en": "Myriad-Prosperity Heaven",
+        "cn": "妙繁天",
+        "pinyin": "Miào Fán Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1184
+    },
+    {
+        "en": "Origin-Infant",
+        "cn": "元婴",
+        "pinyin": "Yuányīng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1184
+    },
+    {
+        "en": "Dao Rector",
+        "cn": "道正",
+        "pinyin": "Dào Zhèng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1184
+    },
+    {
+        "en": "Myriad-Prosperity Dao Palace",
+        "cn": "妙繁道宫",
+        "pinyin": "Miào Fán Dào Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Profound Image of the Tongxuan Master",
+        "cn": "通玄主之玄像",
+        "pinyin": "Tōngxuán Zhǔ zhī Xuánxiàng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Qu Tan",
+        "cn": "瞿滩",
+        "pinyin": "Qú Tān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1185
+    },
+    {
+        "en": "Qu An",
+        "cn": "瞿岸",
+        "pinyin": "Qú Àn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1185
+    },
+    {
+        "en": "Diverse Mansion Co-forging Art",
+        "cn": "异府同炉之术",
+        "pinyin": "Yìfǔ Tónglú zhī Shù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "the Divine, the Indestructible, the Undying, the Inundating Water, and the Yang Talisman",
+        "cn": "神、不隳、不死、水滥、阳符",
+        "pinyin": "Shén, Bùhuī, Bùsǐ, Shuǐlàn, Yángfú",
+        "type": "Group",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "the Sacrificial, the Gold, the Stone, the Profound, and the Transmutation",
+        "cn": "祭、金、石、玄、嬗",
+        "pinyin": "Jì, Jīn, Shí, Xuán, Shàn",
+        "type": "Group",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Yuyi",
+        "cn": "郁仪",
+        "pinyin": "Yùyí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Yuyi Immortals",
+        "cn": "郁仪仙",
+        "pinyin": "Yùyí Xiān",
+        "type": "Group",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Wu Earth Life-Mandate Origin-Embryo",
+        "cn": "戊土司命元胎",
+        "pinyin": "Wùtǔ Sīmìng Yuántāi",
+        "type": "Item",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Establishment of the Azure Aether",
+        "cn": "修立青冥",
+        "pinyin": "Xiūlì Qīngmíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Evasion of Calamity and Tribulation",
+        "cn": "避走灾劫",
+        "pinyin": "Bìzǒu Zāijié",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1185
+    },
+    {
+        "en": "Guan Shi",
+        "cn": "涫世",
+        "pinyin": "Guàn Shì",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1186
+    },
+    {
+        "en": "Tapestry of Concealed Sublime Resources",
+        "cn": "饮妙藏资布",
+        "pinyin": "yǐn miào cáng zī bù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Supreme Yin Immortal Court",
+        "cn": "太阴仙庭",
+        "pinyin": "Tàiyīn Xiāntíng",
+        "type": "Group",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Investigating Emissary",
+        "cn": "缉缀使",
+        "pinyin": "jī zhuì shǐ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Manifestations Earth Temple",
+        "cn": "悬土道观",
+        "pinyin": "Xuán Tǔ Dàoguàn",
+        "type": "Place",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Tang Xie",
+        "cn": "汤胁",
+        "pinyin": "Tāng Xié",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1186
+    },
+    {
+        "en": "Chong Yan",
+        "cn": "冲兖",
+        "pinyin": "Chōng Yǎn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1186
+    },
+    {
+        "en": "Divine Work Manifestation Art",
+        "cn": "神业成宣法",
+        "pinyin": "Shényè Chéng Xuān Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Flame Transformation and Rising Scripture",
+        "cn": "变火升焰经",
+        "pinyin": "Biànhuǒ Shēngyàn Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Radiant Light Seeking Blaze Scripture",
+        "cn": "曜光求炽经",
+        "pinyin": "Yàoguāng Qiúchì Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Yi Chuan",
+        "cn": "邑川",
+        "pinyin": "Yì Chuān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1186
+    },
+    {
+        "en": "Elucidating Removal of Molten Fire Abode Art",
+        "cn": "阐除阳火居法",
+        "pinyin": "Chǎnchú Yánghuǒ Jū Fǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Borrowed Manor",
+        "cn": "借府",
+        "pinyin": "Jiè Fǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "Intercalated Feminine",
+        "cn": "闰牝",
+        "pinyin": "Rùn Pìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1186
+    },
+    {
+        "en": "We serve the Profound Court’s First Earth above, and bestow a thousand hundred immortals upon the world below!",
+        "cn": "上奉玄庭第一土，下赐人间千百仙！",
+        "pinyin": "Shàng fèng xuán tíng dì yī tǔ, xià cì rénjiān qiān bǎi xiān!",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Profound Monarch Changtang",
+        "cn": "长塘玄君",
+        "pinyin": "Cháng Táng Xuán Jūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1187
+    },
+    {
+        "en": "Great Sun, Clear Orthodoxy, Radiant and Flourishing Supreme Yang Profound Monarch",
+        "cn": "大日清统明郁太阳玄君",
+        "pinyin": "Dà Rì Qīng Tǒng Míng Yù Tàiyáng Xuán Jūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Sun Palace Supreme Yang True Monarch",
+        "cn": "日宫太阳真君",
+        "pinyin": "Rì Gōng Tàiyáng Zhēnjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Profound Aegis of All Flourishing Divine Monarch",
+        "cn": "玄御诸郁神君",
+        "pinyin": "Xuán Yù Zhū Yù Shénjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Profound-Divine, Origin-Truth, Purple-Radiance Immortal Monarch",
+        "cn": "玄神元真紫曜仙君",
+        "pinyin": "Xuán Shén Yuán Zhēn Zǐ Yào Xiānjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Heavenly Wolf",
+        "cn": "天狼",
+        "pinyin": "Tiānláng",
+        "type": "Creature",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Dongjun",
+        "cn": "东君",
+        "pinyin": "Dōng Jūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Emperor Xuan Dao Palace",
+        "cn": "帝宣道宫",
+        "pinyin": "Dì Xuān Dào Gōng",
+        "type": "Group",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Emperor Xuan of the Central Earth's Practical Works Divine Monarch",
+        "cn": "帝宣中土用业神君",
+        "pinyin": "Dì Xuān Zhōng Tǔ Yòng Yè Shénjūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1187
+    },
+    {
+        "en": "Lesser Yin's Quest for the Dao Scroll",
+        "cn": "少阴求道述卷",
+        "pinyin": "Shàoyīn Qiúdào Shùjuàn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Heart Art of the Divine Core Achieved by Borrowing Earth",
+        "cn": "借土成道神丹心法",
+        "pinyin": "Jiètǔ Chéngdào Shéndān Xīnfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Righteous Method of the Spiritual Treasure for Advancing Cultivation",
+        "cn": "灵宝凭虚炼道正法",
+        "pinyin": "Língbǎo Píngxū Liàndào Zhèngfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Profound Art of Supplication to the Spiritual Treasure",
+        "cn": "上祈灵宝玄术",
+        "pinyin": "Shàngqí Língbǎo Xuánshù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Guided Endowment",
+        "cn": "引持",
+        "pinyin": "Yǐnchí",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Proxy Immortal",
+        "cn": "代仙",
+        "pinyin": "Dàixiān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Divine Core",
+        "cn": "神丹",
+        "pinyin": "Shéndān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "spiritual item",
+        "cn": "灵物",
+        "pinyin": "língwù",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1190
+    },
+    {
+        "en": "Fullness Palace",
+        "cn": "满盈宫",
+        "pinyin": "Mǎnyíng Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1191
+    },
+    {
+        "en": "Scarlet Palace Mystic Tiger Scripture",
+        "cn": "赤殿玄虎经",
+        "pinyin": "Chì Diàn Xuán Hǔ Jīng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1191
+    },
+    {
+        "en": "Innocent Guilt Gate",
+        "cn": "无生咎门",
+        "pinyin": "Wúshēng Jiùmén",
+        "type": "Group",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Marvelous Formula of the Homeland",
+        "cn": "乡梓妙方",
+        "pinyin": "Xiāngzǐ Miàofāng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Ji Worm",
+        "cn": "稷虫",
+        "pinyin": "Jìchóng",
+        "type": "Creature",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Nurturing Earth",
+        "cn": "育土",
+        "pinyin": "Yùtǔ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Wall Stone",
+        "cn": "壁石",
+        "pinyin": "Bìshí",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Resource Healing",
+        "cn": "资疗",
+        "pinyin": "Zīliáo",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Hidden Profundity",
+        "cn": "服玄",
+        "pinyin": "Fú Xuán",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Five Edicts of Hidden Profundity",
+        "cn": "服玄五敕",
+        "pinyin": "Fú Xuán Wǔ Chì",
+        "type": "Item",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Material Derivation",
+        "cn": "物衍",
+        "pinyin": "Wùyǎn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1189
+    },
+    {
+        "en": "Five-Dredging Lotus Radiance",
+        "cn": "五浚莲华",
+        "pinyin": "Wǔjùn Liánhuá",
+        "type": "Item",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Mother of All Qi",
+        "cn": "诸气之母",
+        "pinyin": "zhū qì zhī mǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Master of All Profundities",
+        "cn": "诸玄之师",
+        "pinyin": "zhū xuán zhī shī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Revering Radiance Moon Vein",
+        "cn": "仰华月脉",
+        "pinyin": "Yǎnghuá Yuèmài",
+        "type": "Item",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Moon Medicines",
+        "cn": "月药",
+        "pinyin": "Yuèyào",
+        "type": "Item",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Cold Stones",
+        "cn": "寒石",
+        "pinyin": "Hánshí",
+        "type": "Item",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Trinary Yang Annual Radiance",
+        "cn": "叁阳岁光",
+        "pinyin": "Sānyáng Suìguāng",
+        "type": "Item",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Qi Moon White Dew",
+        "cn": "炁月白露",
+        "pinyin": "Qìyuè Báilù",
+        "type": "Item",
+        "gender": null,
+        "file": 1193
+    },
+    {
+        "en": "Calamity Measure",
+        "cn": "斛量灾",
+        "pinyin": "hú liáng zāi",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1194
+    },
+    {
+        "en": "weak yin cannot harmonize with ascendant yang; a waning fire cannot lack a true sovereign",
+        "cn": "弱阴不能谐盛阳，衰火不能无正君",
+        "pinyin": "ruò yīn bùnéng xié shèng yáng, shuāi huǒ bùnéng wú zhèng jūn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1194
+    },
+    {
+        "en": "Su Jing",
+        "cn": "素京",
+        "pinyin": "Sù Jīng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1194
+    },
+    {
+        "en": "Questioning the Prime",
+        "cn": "问素",
+        "pinyin": "Wèn Sù",
+        "type": "Item",
+        "gender": null,
+        "file": 1194
+    },
+    {
+        "en": "White Nurturing",
+        "cn": "白飬",
+        "pinyin": "Bái Yǎng",
+        "type": "Item",
+        "gender": null,
+        "file": 1194
+    },
+    {
+        "en": "Listening to Explication",
+        "cn": "听阐",
+        "pinyin": "Tīng Chǎn",
+        "type": "Item",
+        "gender": null,
+        "file": 1194
+    },
+    {
+        "en": "Qi Wu’an",
+        "cn": "齐务安",
+        "pinyin": "Qí Wù'ān",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1195
+    },
+    {
+        "en": "Praise Cliff Pure Origin",
+        "cn": "赞崖淳元",
+        "pinyin": "Zàn Yá Chúnyuán",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1195
+    },
+    {
+        "en": "Esteemed Upper Azure Palace",
+        "cn": "尊执上青宫",
+        "pinyin": "Zūnzhí Shàngqīng Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1195
+    },
+    {
+        "en": "Returning Creek",
+        "cn": "归谿",
+        "pinyin": "Guīxī",
+        "type": "Item",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Endless Transformation",
+        "cn": "冗变",
+        "pinyin": "Rǒngbiàn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Mercury Contention",
+        "cn": "争汞",
+        "pinyin": "Zhēng gǒng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Heavenly Pavilion Heavenly Glow",
+        "cn": "天阁霞",
+        "pinyin": "Tiāngé Xiá",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1196
+    },
+    {
+        "en": "Subduing Creek Splitting Light Lotus",
+        "cn": "降谿分光莲",
+        "pinyin": "Jiàngxī Fēnguāng Lián",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "conjoining marsh",
+        "cn": "会泽",
+        "pinyin": "Huì zé",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "mounded marsh",
+        "cn": "陵泽",
+        "pinyin": "Líng zé",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "celestial marsh",
+        "cn": "天泽",
+        "pinyin": "Tiān zé",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Profound Coffin Cavern Essence",
+        "cn": "玄椁洞元",
+        "pinyin": "Xuánguǒ Dòngyuán",
+        "type": "Item",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Spring Morning Drizzle",
+        "cn": "春朝细雨",
+        "pinyin": "Chūnzhāo Xìyǔ",
+        "type": "Item",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Spring Suspended Qi",
+        "cn": "春悬炁",
+        "pinyin": "Chūnxuán Qì",
+        "type": "Item",
+        "gender": null,
+        "file": 1196
+    },
+    {
+        "en": "Mountain demon, by this blessing receive, let deviance be purged and righteousness conceived! Ascend now, and touch the Profound Truth—accept this fate!",
+        "cn": "山妖受祝，肃正偏邪，今上接玄真——请用！",
+        "pinyin": "Shān yāo shòu zhù, sù zhèng piān xié, jīn shàng jiē xuán zhēn——qǐng yòng!",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1197
+    },
+    {
+        "en": "Li Baleful Qi",
+        "cn": "离煞",
+        "pinyin": "lí shà",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1197
+    },
+    {
+        "en": "Huaiping",
+        "cn": "淮平",
+        "pinyin": "Huáipíng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1198
+    },
+    {
+        "en": "Three Alike, Two Different",
+        "cn": "三同二殊",
+        "pinyin": "Sān Tóng Èr Shū",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1198
+    },
+    {
+        "en": "Four Alike, One Different",
+        "cn": "四同一殊",
+        "pinyin": "Sì Tóng Yī Shū",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1198
+    },
+    {
+        "en": "Fourteen Rolls",
+        "cn": "十四卷",
+        "pinyin": "Shísì Juàn",
+        "type": "Item",
+        "gender": null,
+        "file": 1198
+    },
+    {
+        "en": "Wang Yu",
+        "cn": "王毓",
+        "pinyin": "Wáng Yù",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1198
+    },
+    {
+        "en": "White Nurturing Roll",
+        "cn": "白飬卷",
+        "pinyin": "Bái Yǎng Juàn",
+        "type": "Item",
+        "gender": null,
+        "file": 1198
+    },
+    {
+        "en": "Disciple of the Profound Repository",
+        "cn": "玄藏殿中修仙主",
+        "pinyin": "Xuán Zàng Diànzhōng Xiūxiān Zhǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1198
+    },
+    {
+        "en": "Hall of Final Vastness",
+        "cn": "终瀚殿",
+        "pinyin": "Zhōng Hàn Diàn",
+        "type": "Place",
+        "gender": null,
+        "file": 1198
+    },
+    {
+        "en": "calamity of ascension",
+        "cn": "执位之劫",
+        "pinyin": "zhí wèi zhī jié",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1199
+    },
+    {
+        "en": "Xi Shaoshang",
+        "cn": "郗少商",
+        "pinyin": "Xī Shàoshāng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1199
+    },
+    {
+        "en": "Wen Qingzhou",
+        "cn": "闻清昼",
+        "pinyin": "Wén Qīngzhòu",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1200
+    },
+    {
+        "en": "Yuanjing",
+        "cn": "元径",
+        "pinyin": "Yuánjìng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1200
+    },
+    {
+        "en": "Numinous Treasure Daoist tradition",
+        "cn": "灵宝道统",
+        "pinyin": "Língbǎo Dàotǒng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1200
+    },
+    {
+        "en": "Ding Weili",
+        "cn": "丁闱离",
+        "pinyin": "Dīng Wéilí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1201
+    },
+    {
+        "en": "cave dwelling",
+        "cn": "洞府",
+        "pinyin": "dòngfǔ",
+        "type": "Place",
+        "gender": null,
+        "file": 1201
+    },
+    {
+        "en": "Chiyi",
+        "cn": "墀夷",
+        "pinyin": "Chíyí",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1202
+    },
+    {
+        "en": "Vastwater of Auspice",
+        "cn": "良筹汪水",
+        "pinyin": "Liángchóu Wāngshuǐ",
+        "type": "Item",
+        "gender": null,
+        "file": 1203
+    },
+    {
+        "en": "Liu Changdie",
+        "cn": "刘长迭",
+        "pinyin": "Liú Chángdié",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1203
+    },
+    {
+        "en": "Ministerial Fire Seeking Evil Spirit Formation",
+        "cn": "相火求邪灵阵",
+        "pinyin": "Xiānghuǒ Qiú Xiélíng Zhèn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1203
+    },
+    {
+        "en": "Sun-Seeking Year Light",
+        "cn": "参阳岁光",
+        "pinyin": "Cānyáng Suìguāng",
+        "type": "Item",
+        "gender": null,
+        "file": 1203
+    },
+    {
+        "en": "Lesser Yang baleful qi",
+        "cn": "少阳恶气",
+        "pinyin": "Shàoyáng èqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1203
+    },
+    {
+        "en": "Baleful Qi",
+        "cn": "恶气",
+        "pinyin": "èqì",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1203
+    },
+    {
+        "en": "Garrison Profound spirit-ghosts",
+        "cn": "戍玄神鬼",
+        "pinyin": "shù xuán shén guǐ",
+        "type": "Creature",
+        "gender": null,
+        "file": 1204
+    },
+    {
+        "en": "Profound Monarch Gongbei Xuantu Siming",
+        "cn": "共卑玄土司命玄君",
+        "pinyin": "gòng bēi xuán tǔ sī mìng xuán jūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Shaoxu",
+        "cn": "少顼",
+        "pinyin": "shǎo xū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Gong Xu",
+        "cn": "共顼",
+        "pinyin": "gòng xū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Jishui Prefecture",
+        "cn": "籍水郡",
+        "pinyin": "jí shuǐ jùn",
+        "type": "Place",
+        "gender": null,
+        "file": 1204
+    },
+    {
+        "en": "Lian Dong",
+        "cn": "廉栋",
+        "pinyin": "lián dòng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Lian Mei",
+        "cn": "廉楣",
+        "pinyin": "lián méi",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1204
+    },
+    {
+        "en": "Yangsiling",
+        "cn": "阳司岭",
+        "pinyin": "yáng sī lǐng",
+        "type": "Place",
+        "gender": null,
+        "file": 1204
+    },
+    {
+        "en": "Sima Hu",
+        "cn": "司马鹄",
+        "pinyin": "sī mǎ hú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Chulong",
+        "cn": "除癃",
+        "pinyin": "chú lóng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "King Baiyang",
+        "cn": "稗阳王",
+        "pinyin": "bài yáng wáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Daoist Master Zhu Kui",
+        "cn": "烛魁真人",
+        "pinyin": "zhú kuí zhēn rén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1204
+    },
+    {
+        "en": "Golden Book Sequence",
+        "cn": "金书序",
+        "pinyin": "Jīn Shū Xù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1205
+    },
+    {
+        "en": "Subduing Sword",
+        "cn": "降伏剑",
+        "pinyin": "Xiángfú Jiàn",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1205
+    },
+    {
+        "en": "Dao Baleful Cold Iron Whip",
+        "cn": "道煞寒铁鞭",
+        "pinyin": "Dào Shà Hán Tiě Biān",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1205
+    },
+    {
+        "en": "Radiant Strange White Gold",
+        "cn": "光异白金",
+        "pinyin": "Guāng Yì Bái Jīn",
+        "type": "Item",
+        "gender": null,
+        "file": 1205
+    },
+    {
+        "en": "Dawn Essence Treasure Maple",
+        "cn": "晞元宝枫",
+        "pinyin": "Xī Yuán Bǎo Fēng",
+        "type": "Item",
+        "gender": null,
+        "file": 1205
+    },
+    {
+        "en": "Dongfang Siyun",
+        "cn": "东方嗣云",
+        "pinyin": "Dōngfāng Sìyún",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1205
+    },
+    {
+        "en": "Offering to Dongjun",
+        "cn": "奉东君",
+        "pinyin": "Fèng Dōngjūn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1205
+    },
+    {
+        "en": "Dongfang Sihai",
+        "cn": "东方嗣海",
+        "pinyin": "Dōngfāng Sìhǎi",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1205
+    },
+    {
+        "en": "Zhongli Chun",
+        "cn": "钟离淳",
+        "pinyin": "Zhōnglí Chún",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1205
+    },
+    {
+        "en": "Myriad Malice Gold-Piercing Blade",
+        "cn": "万煞贯金刀",
+        "pinyin": "Wàn Shà Guàn Jīn Dāo",
+        "type": "Item",
+        "gender": null,
+        "file": 1206
+    },
+    {
+        "en": "Eight-Ghost-Faced Frontier",
+        "cn": "八鬼面疆",
+        "pinyin": "Bā Guǐ Miàn Jiāng",
+        "type": "Item",
+        "gender": null,
+        "file": 1206
+    },
+    {
+        "en": "Mind-Gathering Malice-Suppressing Gold",
+        "cn": "纳心收煞金",
+        "pinyin": "Nà xīn shōu shà jīn",
+        "type": "Item",
+        "gender": null,
+        "file": 1207
+    },
+    {
+        "en": "Night-Crossing Hanging Stone",
+        "cn": "渡夜悬石",
+        "pinyin": "Dù yè xuán shí",
+        "type": "Item",
+        "gender": null,
+        "file": 1207
+    },
+    {
+        "en": "Tianyuan One Dao Spiritual Formation",
+        "cn": "天元一道灵阵",
+        "pinyin": "Tiānyuán yīdào líng zhèn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1207
+    },
+    {
+        "en": "Dongwang Sea",
+        "cn": "东罔海",
+        "pinyin": "Dōng Wǎng Hǎi",
+        "type": "Place",
+        "gender": null,
+        "file": 1208
+    },
+    {
+        "en": "Dongting",
+        "cn": "洞庭",
+        "pinyin": "Dòngtíng",
+        "type": "Place",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Five Immortals Below the Profound",
+        "cn": "玄下五仙",
+        "pinyin": "Xuánxià Wǔxiān",
+        "type": "Group",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Shao Da",
+        "cn": "少笪",
+        "pinyin": "Shǎo Dá",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1209
+    },
+    {
+        "en": "Xu Xiang",
+        "cn": "须相",
+        "pinyin": "Xū Xiàng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1209
+    },
+    {
+        "en": "Tian Chen",
+        "cn": "天陈",
+        "pinyin": "Tiān Chén",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1209
+    },
+    {
+        "en": "Tian Wei",
+        "cn": "天尉",
+        "pinyin": "Tiān Wèi",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1209
+    },
+    {
+        "en": "Shen Qiang",
+        "cn": "神戕",
+        "pinyin": "Shén Qiāng",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1209
+    },
+    {
+        "en": "Shangguan Zidu",
+        "cn": "上官子都",
+        "pinyin": "Shàngguān Zǐdōu",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1209
+    },
+    {
+        "en": "Xuanda Heaven",
+        "cn": "玄笪天",
+        "pinyin": "Xuándá Tiān",
+        "type": "Place",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Wall-Below Daoist tradition",
+        "cn": "垣下道统",
+        "pinyin": "Yuánxià Dàotǒng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "The path of Comprehending Profoundity is supreme self-veneration; the gods of Encompassing Profoundity bow to imperial decree. They hide within the rising sun to plot the one true path, while the unified Primordial Dao refines Azure Profoundity.",
+        "cn": "自尊极贵为通径，兜率仙神叩谕权，藏隐阳暾图正路，浑元齐道炼青玄。",
+        "pinyin": "Zìzūn jí guì wèi tōngjìng, dōulǜ xiānshén kòu yùquán, cángyǐn yángtūn tú zhènglù, húnyuán qídào liàn qīngxuán.",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Supreme Yin Profound Monarch, Lord of Faint Moon's Radiance",
+        "cn": "微月璘统太阴玄君",
+        "pinyin": "Wēiyuè lín tǒng Tàiyīn Xuánjūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1209
+    },
+    {
+        "en": "True Monarch of the Supreme Yin of the Yuan Court.",
+        "cn": "垣庭太阴真君",
+        "pinyin": "Yuántíng Tàiyīn Zhēnjūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1209
+    },
+    {
+        "en": "Taiyuan Court",
+        "cn": "太垣庭",
+        "pinyin": "Tài Yuán Tíng",
+        "type": "Place",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Supreme Yin Woven Jade",
+        "cn": "太阴结璘",
+        "pinyin": "Tàiyīn Jiélín",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Xuan Dan",
+        "cn": "玄儋",
+        "pinyin": "Xuán Dān",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Shuo Lou",
+        "cn": "朔楼",
+        "pinyin": "Shuò Lóu",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Dan and Han hasten to the hall to hear of Wu Earth",
+        "cn": "儋韩趋殿听戊土",
+        "pinyin": "Dān Hán qū diàn tīng Wù Tǔ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "Sheji Apostasy",
+        "cn": "社稷畔道",
+        "pinyin": "Shèjì pàndào",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1209
+    },
+    {
+        "en": "lunar Daoist tradition",
+        "cn": "月华道统",
+        "pinyin": "yuèhuá dàotǒng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1210
+    },
+    {
+        "en": "Guanxu",
+        "cn": "官戌",
+        "pinyin": "Guān Xū",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1210
+    },
+    {
+        "en": "Daoist Master Dongtai",
+        "cn": "洞台真人",
+        "pinyin": "Dòngtái Zhēnrén",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1210
+    },
+    {
+        "en": "Chongming Hall",
+        "cn": "重明殿",
+        "pinyin": "Chóngmíng Diàn",
+        "type": "Place",
+        "gender": null,
+        "file": 1210
+    },
+    {
+        "en": "Qing Changhuai",
+        "cn": "庆长怀",
+        "pinyin": "Qìng Chánghuái",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1210
+    },
+    {
+        "en": "To hold oneself in utmost esteem is the path; the immortals of Tushita knock upon the gates of authority…",
+        "cn": "自尊极贵为通径，兜率仙神叩谕权",
+        "pinyin": "Zìzūn jí guì wéi tōngjìng, dōulǜ xiānshén kòu yù quán",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1211
+    },
+    {
+        "en": "Heavenly Dao Thunder",
+        "cn": "天道雷霆",
+        "pinyin": "Tiāndào léitíng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1211
+    },
+    {
+        "en": "Divine Dao Incense",
+        "cn": "神道香火",
+        "pinyin": "Shéndào xiānghuǒ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1211
+    },
+    {
+        "en": "Northern Emperor's Scripture of Wei",
+        "cn": "北帝魏书",
+        "pinyin": "Běidì Wèi shū",
+        "type": "Item",
+        "gender": null,
+        "file": 1211
+    },
+    {
+        "en": "Imperial Sun-March Sha",
+        "cn": "行日帝煞",
+        "pinyin": "Xíng rì dì shà",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1211
+    },
+    {
+        "en": "Luminous Chord of Obscurity",
+        "cn": "明晦道弦",
+        "pinyin": "Mínghuì Dào Xián",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1212
+    },
+    {
+        "en": "Golden Palace of Purple Cloud",
+        "cn": "紫云金阙",
+        "pinyin": "Zǐyún Jīnquē",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1212
+    },
+    {
+        "en": "Bright Talisman",
+        "cn": "明符",
+        "pinyin": "Míng Fú",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1212
+    },
+    {
+        "en": "Perceive the actions of others, maintain unceasing thought, balance gain and loss, and compartmentalize the spirit",
+        "cn": "察人举措，心念不绝，调停损益，分制心神",
+        "pinyin": "Chá rén jǔcuò, xīnniàn bù jué, tiáotíng sǔnyì, fēn zhì xīnshén",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1212
+    },
+    {
+        "en": "Obscure Talisman",
+        "cn": "晦符",
+        "pinyin": "Huì Fú",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1212
+    },
+    {
+        "en": "Draw from and add to the life-mandate, diminish the forge and douse the furnace, embrace the great throne, and conceal within the profound",
+        "cn": "抽添性命，减灶熄炉，大位不厌，藏入玄机",
+        "pinyin": "Chōu tiān xìngmìng, jiǎn zào xī lú, dà wèi bùyàn, cáng rù xuánjī",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1212
+    },
+    {
+        "en": "Yusui",
+        "cn": "语岁",
+        "pinyin": "Yǔsuì",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1213
+    },
+    {
+        "en": "Kuimen",
+        "cn": "夔门",
+        "pinyin": "Kuímén",
+        "type": "Place",
+        "gender": null,
+        "file": 1214
+    },
+    {
+        "en": "Xingyuan Dao",
+        "cn": "兴元道",
+        "pinyin": "Xīngyuán Dào",
+        "type": "Place",
+        "gender": null,
+        "file": 1214
+    },
+    {
+        "en": "Daoist Master Sun",
+        "cn": "孙真人",
+        "pinyin": "Sūn Zhēnrén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1214
+    },
+    {
+        "en": "Daoist Master Wu Gan",
+        "cn": "武槦真人",
+        "pinyin": "Wǔ Gān Zhēnrén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1214
+    },
+    {
+        "en": "King Jueyang",
+        "cn": "傕阳王",
+        "pinyin": "jué yáng wáng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1215
     }
 ]

@@ -61,7 +61,7 @@
 - Pit Water - 坎水 (kǎn shuǐ)
 - Converging Water - 合水 (hé shuǐ)
 - Valley Water - 牝水 (pìn shuǐ)
-- Water Mansion/Weak Water - 府水 / 弱水 (fǔ shuǐ / ruò shuǐ)
+- Mansion Water/Weak Water - 府水 / 弱水 (fǔ shuǐ / ruò shuǐ)
 
 ## Metal Virtue
 
