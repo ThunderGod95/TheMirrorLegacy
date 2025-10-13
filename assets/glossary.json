@@ -18960,14 +18960,6 @@
         "file": 1018
     },
     {
-        "en": "Riju Yuezhu",
-        "cn": "日居月诸",
-        "pinyin": "rì jū yuè zhū",
-        "type": "Person",
-        "gender": "Unknown",
-        "file": 1018
-    },
-    {
         "en": "Weiming Weixi",
         "cn": "未明未晞",
         "pinyin": "wèi míng wèi xī",
@@ -27680,7 +27672,7 @@
         "file": 1203
     },
     {
-        "en": "Sun-Seeking Year Light",
+        "en": "Trinary Yang Annual Radiance",
         "cn": "参阳岁光",
         "pinyin": "Cānyáng Suìguāng",
         "type": "Item",
@@ -27848,7 +27840,7 @@
         "file": 1205
     },
     {
-        "en": "Offering to Dongjun",
+        "en": "Revering the Eastern Lord",
         "cn": "奉东君",
         "pinyin": "Fèng Dōngjūn",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -28246,5 +28238,285 @@
         "type": "Person",
         "gender": "Male",
         "file": 1215
+    },
+    {
+        "en": "Situ Xu",
+        "cn": "司徒旭",
+        "pinyin": "Sītú Xù",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1216
+    },
+    {
+        "en": "Lesser Obscurity Capital Spirit",
+        "cn": "少晦都灵",
+        "pinyin": "Shǎo Huì Dū Líng",
+        "type": "Item",
+        "gender": null,
+        "file": 1217
+    },
+    {
+        "en": "Profound Immortal Township",
+        "cn": "玄仙乡",
+        "pinyin": "Xuán Xiān Xiāng",
+        "type": "Place",
+        "gender": null,
+        "file": 1217
+    },
+    {
+        "en": "Immortal Lord Qingmei",
+        "cn": "清昧仙君",
+        "pinyin": "Qīng Mèi Xiānjūn",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1217
+    },
+    {
+        "en": "Profound Foundation Grand Array",
+        "cn": "玄韬大阵",
+        "pinyin": "Xuán Tāo Dàzhèn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1217
+    },
+    {
+        "en": "Distant-Platform Gold-Refining Art",
+        "cn": "远台藏金炼法",
+        "pinyin": "Yuǎntái Cángjīn Liànfǎ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1218
+    },
+    {
+        "en": "Phase Yin Mercury",
+        "cn": "相阴汞",
+        "pinyin": "xiàng yīn gǒng",
+        "type": "Item",
+        "gender": null,
+        "file": 1219
+    },
+    {
+        "en": "Ministerial Fire",
+        "cn": "相火",
+        "pinyin": "Xiānghuǒ",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1220
+    },
+    {
+        "en": "Profound Formation Ministerial Fire Light",
+        "cn": "玄阵相火之光",
+        "pinyin": "Xuán zhèn xiānghuǒ zhī guāng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1220
+    },
+    {
+        "en": "Ministerial Seal",
+        "cn": "相印",
+        "pinyin": "Xiāng yìn",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1220
+    },
+    {
+        "en": "Absorb Yang",
+        "cn": "收阳",
+        "pinyin": "Shōu yáng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1220
+    },
+    {
+        "en": "Seeking Evil Stage",
+        "cn": "求邪台",
+        "pinyin": "Qiú Xié Tái",
+        "type": "Place",
+        "gender": null,
+        "file": 1220
+    },
+    {
+        "en": "Seeking Evil",
+        "cn": "求邪",
+        "pinyin": "Qiú Xié",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1220
+    },
+    {
+        "en": "Li Chenghui",
+        "cn": "李承晦",
+        "pinyin": "Lǐ Chénghuì",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1221
+    },
+    {
+        "en": "Daoist Master Zhou Rao",
+        "cn": "周饶真人",
+        "pinyin": "Zhōu Ráo Zhēnrén",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1221
+    },
+    {
+        "en": "Daozhen Converging Water Sandalwood Hornless Dragon",
+        "cn": "道禛合水檀螭",
+        "pinyin": "Dào Zhēn Hé Shuǐ Tán Chī",
+        "type": "Creature",
+        "gender": null,
+        "file": 1221
+    },
+    {
+        "en": "Red Dragon Shrine",
+        "cn": "赤龙祧",
+        "pinyin": "Chì Lóng Tiāo",
+        "type": "Group",
+        "gender": null,
+        "file": 1221
+    },
+    {
+        "en": "Daoju Converging Water Sun Hornless Dragon",
+        "cn": "道居合水日螭",
+        "pinyin": "Dào Jū Hé Shuǐ Rì Chī",
+        "type": "Creature",
+        "gender": null,
+        "file": 1221
+    },
+    {
+        "en": "Daozhu Converging Water Moon Hornless Dragon",
+        "cn": "道诸合水月螭",
+        "pinyin": "Dào Zhū Hé Shuǐ Yuè Chī",
+        "type": "Creature",
+        "gender": null,
+        "file": 1221
+    },
+    {
+        "en": "Profound Vault Invitation Letter",
+        "cn": "玄库请凭函",
+        "pinyin": "Xuán Kù Qǐng Píng Hán",
+        "type": "Item",
+        "gender": null,
+        "file": 1221
+    },
+    {
+        "en": "Tao River",
+        "cn": "洮水",
+        "pinyin": "Táo Shuǐ",
+        "type": "Place",
+        "gender": null,
+        "file": 1221
+    },
+    {
+        "en": "Daoist Master Wang Long",
+        "cn": "王笼真人",
+        "pinyin": "Wáng Lóng Zhēnrén",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1221
+    },
+    {
+        "en": "King Quyang",
+        "cn": "曲阳王",
+        "pinyin": "Qūyáng Wáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1222
+    },
+    {
+        "en": "King Fuen",
+        "cn": "福恩王",
+        "pinyin": "Fú'ēn Wáng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1222
+    },
+    {
+        "en": "Sire of the High Mounds",
+        "cn": "高陵父",
+        "pinyin": "Gāolíng Fù",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1223
+    },
+    {
+        "en": "Danyin",
+        "cn": "单垠",
+        "pinyin": "Dānyín",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1223
+    },
+    {
+        "en": "Gathering of Bitter Herbs",
+        "cn": "诸蓼会",
+        "pinyin": "Zhū Liǎo Huì",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1223
+    },
+    {
+        "en": "Three Sanctuaries Profound, I pray, summon the All-Governing Spirit.",
+        "cn": "三舍玄妙，愿请都神。",
+        "pinyin": "Sān shè xuánmiào, yuàn qǐng dōu shén.",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1223
+    },
+    {
+        "en": "Golden Kite Purple-Gold Alms Bowl",
+        "cn": "金鸢紫金钵",
+        "pinyin": "Jīn Yuān Zǐ Jīn Bō",
+        "type": "Item",
+        "gender": null,
+        "file": 1224
+    },
+    {
+        "en": "Luminous Dredging",
+        "cn": "训浚明",
+        "pinyin": "Xùn Jùn Míng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1224
+    },
+    {
+        "en": "Demonbane",
+        "cn": "镇魔",
+        "pinyin": "Zhèn Mó",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1224
+    },
+    {
+        "en": "Quaking Profundity Vista Mountain",
+        "cn": "震玄观景山",
+        "pinyin": "Zhèn Xuán Guān Jǐng Shān",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1224
+    },
+    {
+        "en": "Absorbing Gold's Heavenly Profound Light",
+        "cn": "纳金天玄宣光",
+        "pinyin": "Nà Jīn Tiān Xuán Xuān Guāng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1224
+    },
+    {
+        "en": "Divine Life Invocation",
+        "cn": "神用命",
+        "pinyin": "Shén Yòng Mìng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1225
+    },
+    {
+        "en": "Heavenly Amber Heart-Sacrifice Pearl",
+        "cn": "天珀祭心珠",
+        "pinyin": "Tiān Pò Jì Xīn Zhū",
+        "type": "Artifact",
+        "gender": null,
+        "file": 1225
     }
 ]

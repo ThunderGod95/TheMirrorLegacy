@@ -64,6 +64,7 @@
 ## Lesser Yang - 少阳 (Shàoyáng)
 
 -   Heretical Seeking
+-   Revering the Eastern Lord
 
 # Yin - 阴 (yīn)
 
@@ -137,6 +138,7 @@
 
 -   Concurrent-Risk Seizure
 -   Peace Through Concealment
+-   Sire of the High Mounds
 
 # Water Virtue
 
@@ -214,6 +216,7 @@
 
 -   Calamity-Spreading Life
 -   Falcon's Roost
+-   Gathering of Bitter Herbs
 
 ## Renewing Wood
 
@@ -224,6 +227,7 @@
 ## Manifestations Earth
 
 -   Rite of the Sovereign Earth/World's Heart
+-   Luminous Dredging
 
 ## Bound Earth
 
