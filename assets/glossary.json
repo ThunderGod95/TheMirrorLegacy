@@ -28518,5 +28518,77 @@
         "type": "Artifact",
         "gender": null,
         "file": 1225
+    },
+    {
+        "en": "Unwearied Seat",
+        "cn": "大位不厌",
+        "pinyin": "Dà wèi bù yàn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1227
+    },
+    {
+        "en": "Kuang Hong",
+        "cn": "况泓",
+        "pinyin": "Kuàng Hóng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1227
+    },
+    {
+        "en": "Assistance in Usurpation",
+        "cn": "僭劻勷",
+        "pinyin": "jiàn kuāng ráng",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1228
+    },
+    {
+        "en": "He Shipingzhang",
+        "cn": "贺石平章",
+        "pinyin": "Hè Shí Píngzhāng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1228
+    },
+    {
+        "en": "Yin Xiang",
+        "cn": "尹乡",
+        "pinyin": "Yǐn Xiāng",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1228
+    },
+    {
+        "en": "Yin Du",
+        "cn": "尹髑",
+        "pinyin": "Yǐn Dú",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1228
+    },
+    {
+        "en": "Fan Hui",
+        "cn": "范恢",
+        "pinyin": "Fàn Huī",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1228
+    },
+    {
+        "en": "Qionglai",
+        "cn": "邛崃",
+        "pinyin": "Qiónglái",
+        "type": "Place",
+        "gender": null,
+        "file": 1228
+    },
+    {
+        "en": "Emperor's Mandate",
+        "cn": "应帝王",
+        "pinyin": "Yìng Dìwáng",
+        "type": "Unknown",
+        "gender": null,
+        "file": 1229
     }
 ]

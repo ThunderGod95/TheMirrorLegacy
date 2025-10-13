@@ -25,6 +25,7 @@
 ## Cultivation Transcendence - 修越 (Xiu Yue)
 
 -   Form in Transition - 形渡阡 (Xíng Dù Qiān)
+-   Assistance in Usurpation
 
 ## Capital Guard - 都卫 (Dūwèi)
 
