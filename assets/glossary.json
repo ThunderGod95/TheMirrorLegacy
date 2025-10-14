@@ -28590,5 +28590,13 @@
         "type": "Unknown",
         "gender": null,
         "file": 1229
+    },
+    {
+        "en": "Chen Yuanzhuo",
+        "cn": "陈沅卓",
+        "pinyin": "Chén Yuánzhuō",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1231
     }
 ]
