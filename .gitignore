@@ -134,4 +134,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
 assets/cr_ch.txt

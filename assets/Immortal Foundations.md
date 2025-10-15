@@ -37,9 +37,10 @@
 
 ## Whole Pill - 全丹 (Quándān)
 
--   Secret White Mercury
+-   Nurturing of Perfect Harmony/Secret White Mercury (Alternative)
 -   Moistening Radiant Lead
--   Houshenshu - 候神殊 (Hòu Shén Shū)
+-   Awaiting the Supreme Divine - 候神殊 (Hòu Shén Shū)
+-   Golden Book Sequence
 
 ## Heaven-Governing
 
@@ -58,9 +59,9 @@
 
 -   Audience with the Celestial Gate - 谒天门 (Yè Tiānmén)
 -   Crimson Severing Arrowhead - 赤断镞 (Chìduànzú)
--   Imperial Observation of the Origin - 帝观元 (Dìguānyuán)
+-   Imperial Observation of the Origin/Eternal Brightness Steps (Alternative) - 帝观元 (Dìguānyuán)
 -   Sovereign's Perilous Tread - 君蹈危 (Jūndǎowēi)
--   luminous heart - 昭澈心 (Zhāochèxīn)/world's radiance - 天下明 (Tiānxià Míng)
+-   Luminous Heart - 昭澈心 (Zhāochèxīn)/World's Radiance - 天下明 (Tiānxià Míng)
 
 ## Lesser Yang - 少阳 (Shàoyáng)
 
@@ -111,6 +112,7 @@
 -   Plea to Supplant the Night
 -   Stifling Bitterness
 -   Pavilion of Bestowed Blessings
+-   Discourse of the Eight Evasions
 
 ## Upper Rite
 
@@ -134,6 +136,8 @@
 -   Concordant Conquest
 
 ## Merging Fire - 合火 (hé huǒ)
+
+-   Life-Ending Expulsion
 
 ## Molten Fire - 阳火 (yáng huǒ)
 
@@ -188,12 +192,16 @@
 -   Engraved Stone/Golden Beast Plume - 镂金石/金兽羽 (lòu jīn shí/Jīn Shòu Yǔ)
 -   Heavenly Gilded Helm - 天金冑 (Tiānjīn Zhòu)
 -   Present Departs Old/World's Revolution
+-   Breaking the Broken
 
 ## Wandering Metal - 逍金 (xiāo jīn)
 
 -   Gazing the Metal Apex
+-   Wandering at Ease
 
 ## Harmonising Metal - 齐金 (Qí Jīn)
+
+-   Heavenly Harmonising Fullness
 
 ## Vault Metal - 库金 (Kù Jīn)
 
@@ -269,3 +277,7 @@
 ## Primodial Magnestism
 
 -   Baleful Lord's Rite/Shedding the Malice Embryo
+
+# Unknown
+
+-   Eye of Galloping Heart
