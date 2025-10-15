@@ -29606,5 +29606,77 @@
         "type": "Concept/Term",
         "gender": null,
         "file": 1266
+    },
+    {
+        "en": "Tao Shidao",
+        "cn": "陶识焘",
+        "pinyin": "Táo Shídāo",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1267
+    },
+    {
+        "en": "Shidao",
+        "cn": "识焘",
+        "pinyin": "Shídāo",
+        "type": "Person",
+        "gender": "Male",
+        "file": 1267
+    },
+    {
+        "en": "Lacquer Cloud Branch",
+        "cn": "漆云枝",
+        "pinyin": "Qī Yúnzhī",
+        "type": "Item",
+        "gender": null,
+        "file": 1267
+    },
+    {
+        "en": "Badger Prefecture",
+        "cn": "獾郡",
+        "pinyin": "Huānjùn",
+        "type": "Place",
+        "gender": null,
+        "file": 1267
+    },
+    {
+        "en": "White Curtain Old Dream Tower",
+        "cn": "白帘旧梦楼",
+        "pinyin": "Báilián Jiùmèng Lóu",
+        "type": "Item",
+        "gender": null,
+        "file": 1267
+    },
+    {
+        "en": "Bountiful Yang Grotto",
+        "cn": "资阳洞",
+        "pinyin": "Zīyáng Dòng",
+        "type": "Place",
+        "gender": null,
+        "file": 1267
+    },
+    {
+        "en": "Mountain's Edge Hall",
+        "cn": "山芒堂",
+        "pinyin": "Shānmáng Táng",
+        "type": "Place",
+        "gender": null,
+        "file": 1267
+    },
+    {
+        "en": "Yinling Palace",
+        "cn": "陵阴宫",
+        "pinyin": "Língyīn Gōng",
+        "type": "Place",
+        "gender": null,
+        "file": 1267
+    },
+    {
+        "en": "Governing Yang Grotto",
+        "cn": "督阳洞",
+        "pinyin": "Dūyáng Dòng",
+        "type": "Place",
+        "gender": null,
+        "file": 1267
     }
 ]
