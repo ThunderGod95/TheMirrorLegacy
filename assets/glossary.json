@@ -2560,7 +2560,7 @@
         "file": 322
     },
     {
-        "en": "Azure Manifestation",
+        "en": "Azure Proclaimation",
         "cn": "青宣",
         "pinyin": "qīng xuān",
         "type": "Unknown",
@@ -2944,7 +2944,7 @@
         "file": 362
     },
     {
-        "en": "Li Fire",
+        "en": "Radiant Fire",
         "cn": "离火",
         "pinyin": "Líhuǒ",
         "type": "Unknown",
@@ -4731,16 +4731,16 @@
         "en": "Zhang Duanyan",
         "cn": "张端砚",
         "pinyin": "Zhāng Duānyàn",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 504
     },
     {
         "en": "Duanyan",
         "cn": "端砚",
         "pinyin": "Duānyàn",
-        "type": "Unknown",
-        "gender": null,
+        "type": "Person",
+        "gender": "Female",
         "file": 504
     },
     {
@@ -5824,7 +5824,7 @@
         "file": 662
     },
     {
-        "en": "Great Parting Scripture",
+        "en": "Great Scripture of Radiance",
         "cn": "大离书",
         "pinyin": "Dàlí Shū",
         "type": "Unknown",
@@ -5848,7 +5848,7 @@
         "file": 662
     },
     {
-        "en": "Sutra of Heavenly Parting and the Setting Sun",
+        "en": "Scripture of Heavenly Radiance and the Waning Sun",
         "cn": "天离日昃经",
         "pinyin": "Tiānlí Rìzè Jīng",
         "type": "Unknown",
@@ -5912,7 +5912,7 @@
         "file": 663
     },
     {
-        "en": "Crimson Sun's Heavenly Parting",
+        "en": "Heavenly Fire's Crimson Shine",
         "cn": "赤照天离",
         "pinyin": "Chìzhào Tiālí",
         "type": "Unknown",
@@ -5928,7 +5928,7 @@
         "file": 665
     },
     {
-        "en": "Great Parting's White Brilliance",
+        "en": "Great Radiance of White Brilliance",
         "cn": "大离白熙光",
         "pinyin": "Dàlí Báixī Guāng",
         "type": "Unknown",
@@ -5968,7 +5968,7 @@
         "file": 665
     },
     {
-        "en": "Sun's Resonant Parting Art",
+        "en": "Sun's Resonant Radiance Art",
         "cn": "太阳应离术",
         "pinyin": "Tàiyáng Yìnglí Shù",
         "type": "Unknown",
@@ -6624,7 +6624,7 @@
         "file": 680
     },
     {
-        "en": "Bright Parting Blazing Essence",
+        "en": "Bright Radiance's Blazing Essence",
         "cn": "明离炽精",
         "pinyin": "Mínglí Chìjīng",
         "type": "Unknown",
@@ -11448,7 +11448,7 @@
         "file": 828
     },
     {
-        "en": "Manifestations Earth",
+        "en": "Proclamation Earth",
         "cn": "宣土",
         "pinyin": "Xuān Tǔ",
         "type": "Unknown",
@@ -12816,7 +12816,7 @@
         "file": 861
     },
     {
-        "en": "The Li Fire is a baleful convergence; it neither wanes nor waxes. One who holds the true position of fire makes neither pills nor artifacts.",
+        "en": "The Radiant Fire is a baleful convergence; it neither wanes nor waxes. One who holds the true position of fire makes neither pills nor artifacts.",
         "cn": "『离火』凶会，不竭不盈，执火正位，不丹不器",
         "pinyin": "『Líhuǒ』 xiōng huì, bù jié bù yíng, zhí huǒ zhèng wèi, bù dān bù qì",
         "type": "Unknown",
@@ -13936,7 +13936,7 @@
         "file": 884
     },
     {
-        "en": "Maha Nuzi",
+        "en": "Maha Nu Zi",
         "cn": "奴孜摩诃",
         "pinyin": "Nú Zī Móhē",
         "type": "Person",
@@ -13944,7 +13944,7 @@
         "file": 884
     },
     {
-        "en": "Parting Essence Wall",
+        "en": "Wall of Primordial Radiance",
         "cn": "离元壁",
         "pinyin": "Líyuán Bì",
         "type": "Unknown",
@@ -15096,7 +15096,7 @@
         "file": 918
     },
     {
-        "en": "Six Manifestations Li Fire",
+        "en": "Six Manifestations Radiant Fire",
         "cn": "六显离火",
         "pinyin": "Liùxiǎn Líhuǒ",
         "type": "Unknown",
@@ -15856,7 +15856,7 @@
         "file": 929
     },
     {
-        "en": "Incinerating Li Fire of the Fold",
+        "en": "Incinerating Radiant Fire of the Fold",
         "cn": "折焚离火",
         "pinyin": "Zhé Fén Lí Huǒ",
         "type": "Unknown",
@@ -15864,7 +15864,7 @@
         "file": 930
     },
     {
-        "en": "Incinerating Li Fire",
+        "en": "Incinerating Radiant Fire",
         "cn": "焚离火",
         "pinyin": "Fén Lí Huǒ",
         "type": "Unknown",
@@ -16040,7 +16040,7 @@
         "file": 931
     },
     {
-        "en": "Great Parting's Radiance",
+        "en": "Great Radiance's Splendor",
         "cn": "大离熙光",
         "pinyin": "Dà Lí Xī Guāng",
         "type": "Unknown",
@@ -26168,7 +26168,7 @@
         "file": 1169
     },
     {
-        "en": "Parting Si Apricot Fruit",
+        "en": "Radiant Si Apricot Fruit",
         "cn": "离泗杏果",
         "pinyin": "Lí Sì Xìng Guǒ",
         "type": "Item",
@@ -26368,7 +26368,7 @@
         "file": 1175
     },
     {
-        "en": "Mountain-Levelling Li Fire",
+        "en": "Mountain-Levelling Radiant Fire",
         "cn": "峤平离火",
         "pinyin": "Jiào Píng Lí Huǒ",
         "type": "Concept/Term",
@@ -26832,7 +26832,7 @@
         "file": 1186
     },
     {
-        "en": "Manifestations Earth Temple",
+        "en": "Proclamation Earth Temple",
         "cn": "悬土道观",
         "pinyin": "Xuán Tǔ Dàoguàn",
         "type": "Place",
@@ -29248,7 +29248,7 @@
         "file": 1268
     },
     {
-        "en": "Threefold Radiance Li Fire",
+        "en": "Threefold Radiance Radiant Fire",
         "cn": "三昭离火",
         "pinyin": "Sān Zhāo Líhuǒ",
         "type": "Technique/Art/Method/Incantation/Spell",
@@ -29790,5 +29790,93 @@
         "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 1281
+    },
+    {
+        "en": "Great Ling River",
+        "cn": "大陵川",
+        "pinyin": "Dà Líng Chuān",
+        "type": "Place",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Great Ling Kingdom",
+        "cn": "大陵国",
+        "pinyin": "Dà Líng Guó",
+        "type": "Place",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Peril-Practicing Pit Water of the Sunken Way",
+        "cn": "习险坎水行窞性",
+        "pinyin": "Xí xiǎn kǎn shuǐ xíng dàn xìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Primordial Pit Water of a Thousand Reticences",
+        "cn": "甲子坎水千讷性",
+        "pinyin": "Jiǎzǐ kǎn shuǐ qiān nè xìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Embryonic Breathing Great Treasury of the Profound Valley",
+        "cn": "胎息大臟玄牝",
+        "pinyin": "Tāixī dà zàng xuán pìn",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Golden Oneness Taiyuan of Highest Azure Nature",
+        "cn": "金一太元上青性",
+        "pinyin": "Jīn yī tài yuán shàng qīng xìng",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Nurturing True Fire in the Connate",
+        "cn": "先天中养真火",
+        "pinyin": "Xiāntiān zhōng yǎng zhēnhuǒ",
+        "type": "Concept/Term",
+        "gender": null,
+        "file": 1282
+    },
+    {
+        "en": "Connate Profound-Cycle True Monarch",
+        "cn": "先天玄候真君",
+        "pinyin": "Xiāntiān xuán hòu zhēnjūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1282
+    },
+    {
+        "en": "Connate Profound-Cycle Fire-Virtue True Monarch",
+        "cn": "先天玄候火德真君",
+        "pinyin": "Xiāntiān xuán hòu huǒ dé zhēnjūn",
+        "type": "Person",
+        "gender": "Unknown",
+        "file": 1282
+    },
+    {
+        "en": "Marvelous Dao Transformation Water-Virtue True Monarch",
+        "cn": "妙道化生水德真君",
+        "pinyin": "Miào dào huàshēng shuǐ dé zhēnjūn",
+        "type": "Person",
+        "gender": "Female",
+        "file": 1282
+    },
+    {
+        "en": "Pre-Wu Intercalary Escape",
+        "cn": "戊前闰走",
+        "pinyin": "Wù qián rùn zǒu",
+        "type": "Technique/Art/Method/Incantation/Spell",
+        "gender": null,
+        "file": 1282
     }
 ]
