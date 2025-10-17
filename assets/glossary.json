@@ -29878,5 +29878,13 @@
         "type": "Technique/Art/Method/Incantation/Spell",
         "gender": null,
         "file": 1282
+    },
+    {
+        "en": "Governing Yang Hall",
+        "cn": "督阳殿",
+        "pinyin": "dū yáng diàn",
+        "type": "Place",
+        "gender": null,
+        "file": 1283
     }
 ]
